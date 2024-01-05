@@ -1,0 +1,15 @@
+../Core/Src/ad7708.c:63:9:ad7708_areYouThere	24	static
+../Core/Src/ad7708.c:83:15:ad7708_init	40	static
+../Core/Src/ad7708.c:101:15:ad7708_modeConfig	24	static
+../Core/Src/ad7708.c:124:15:ad7708_channelConfig	24	static
+../Core/Src/ad7708.c:144:15:ad7708_sfRateConfig	24	static
+../Core/Src/ad7708.c:162:15:ad7708_ioConfig	24	static
+../Core/Src/ad7708.c:183:15:ad7708_calibrate	40	static
+../Core/Src/ad7708.c:212:15:ad7708_startContinuousConversion	40	static
+../Core/Src/ad7708.c:224:10:ad7708_readData	24	static
+../Core/Src/ad7708.c:240:22:setNextOperation	24	static
+../Core/Src/ad7708.c:260:13:setCS	16	static
+../Core/Src/ad7708.c:268:22:spiTransmit	32	static
+../Core/Src/ad7708.c:283:22:spiRecieve	32	static
+../Core/Src/ad7708.c:298:22:ad7708_readReg	32	static
+../Core/Src/ad7708.c:314:22:ad7708_waitForIdle	24	static
